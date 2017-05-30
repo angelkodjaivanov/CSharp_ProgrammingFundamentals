@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\DebitCard\bin\Debug\DebitCard.exe.config
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\DebitCard\bin\Debug\DebitCard.exe
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\DebitCard\bin\Debug\DebitCard.pdb
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\DebitCard\obj\Debug\DebitCard.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\DebitCard\obj\Debug\DebitCard.exe
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\DebitCard\obj\Debug\DebitCard.pdb

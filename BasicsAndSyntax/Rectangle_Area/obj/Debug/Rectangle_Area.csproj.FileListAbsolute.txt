@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\Rectangle_Area\bin\Debug\Rectangle_Area.exe.config
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\Rectangle_Area\bin\Debug\Rectangle_Area.exe
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\Rectangle_Area\bin\Debug\Rectangle_Area.pdb
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\Rectangle_Area\obj\Debug\Rectangle_Area.exe
+C:\Users\AgiKo\Desktop\Папки\C#\BasicsAndSyntax\Rectangle_Area\obj\Debug\Rectangle_Area.pdb
