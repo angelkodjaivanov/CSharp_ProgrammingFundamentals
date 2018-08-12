@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\DiffNums\bin\Debug\DiffNums.exe.config
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\DiffNums\bin\Debug\DiffNums.exe
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\DiffNums\bin\Debug\DiffNums.pdb
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\DiffNums\obj\Debug\DiffNums.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\DiffNums\obj\Debug\DiffNums.exe
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\DiffNums\obj\Debug\DiffNums.pdb

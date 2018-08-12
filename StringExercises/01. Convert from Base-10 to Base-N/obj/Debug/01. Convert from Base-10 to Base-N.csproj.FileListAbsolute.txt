@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\01. Convert from Base-10 to Base-N\bin\Debug\_01.Convert_from_Base_10_to_Base_N.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\01. Convert from Base-10 to Base-N\bin\Debug\_01.Convert_from_Base_10_to_Base_N.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\01. Convert from Base-10 to Base-N\bin\Debug\_01.Convert_from_Base_10_to_Base_N.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\01. Convert from Base-10 to Base-N\obj\Debug\_01.Convert_from_Base_10_to_Base_N.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\01. Convert from Base-10 to Base-N\obj\Debug\_01.Convert_from_Base_10_to_Base_N.pdb

@@ -1,0 +1,9 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\19.TheaThePhotographer\bin\Debug\netcoreapp1.1\19.TheaThePhotographer.deps.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\19.TheaThePhotographer\bin\Debug\netcoreapp1.1\19.TheaThePhotographer.runtimeconfig.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\19.TheaThePhotographer\bin\Debug\netcoreapp1.1\19.TheaThePhotographer.runtimeconfig.dev.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\19.TheaThePhotographer\bin\Debug\netcoreapp1.1\19.TheaThePhotographer.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\19.TheaThePhotographer\bin\Debug\netcoreapp1.1\19.TheaThePhotographer.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\19.TheaThePhotographer\obj\Debug\netcoreapp1.1\19.TheaThePhotographer.csprojResolveAssemblyReference.cache
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\19.TheaThePhotographer\obj\Debug\netcoreapp1.1\19.TheaThePhotographer.AssemblyInfo.cs
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\19.TheaThePhotographer\obj\Debug\netcoreapp1.1\19.TheaThePhotographer.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\19.TheaThePhotographer\obj\Debug\netcoreapp1.1\19.TheaThePhotographer.pdb

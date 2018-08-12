@@ -1,0 +1,5 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\04. Grab and Go\bin\Debug\_04.Grab_and_Go.exe.config
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\04. Grab and Go\bin\Debug\_04.Grab_and_Go.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\04. Grab and Go\bin\Debug\_04.Grab_and_Go.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\04. Grab and Go\obj\Debug\_04.Grab_and_Go.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\04. Grab and Go\obj\Debug\_04.Grab_and_Go.pdb

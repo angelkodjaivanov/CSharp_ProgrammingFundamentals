@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\14.FactorialTrailingZeroes\obj\Debug\14.FactorialTrailingZeroes.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\14.FactorialTrailingZeroes\obj\Debug\14.FactorialTrailingZeroes.pdb

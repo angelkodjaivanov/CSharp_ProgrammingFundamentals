@@ -1,0 +1,11 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\04. Split by Word Casing\obj\Debug\04. Split by Word Casing.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.pdb

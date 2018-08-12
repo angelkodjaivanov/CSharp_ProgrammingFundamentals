@@ -1,0 +1,9 @@
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\Drink\bin\Debug\Drink.exe.config
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\Drink\bin\Debug\Drink.exe
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\Drink\bin\Debug\Drink.pdb
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\Drink\obj\Debug\Drink.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\Drink\obj\Debug\Drink.exe
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\Drink\obj\Debug\Drink.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\CondStateAndLoops\Drink\bin\Debug\Drink.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\CondStateAndLoops\Drink\obj\Debug\Drink.exe
+C:\Users\AgiKo\Desktop\Programing\C#\CondStateAndLoops\Drink\obj\Debug\Drink.pdb

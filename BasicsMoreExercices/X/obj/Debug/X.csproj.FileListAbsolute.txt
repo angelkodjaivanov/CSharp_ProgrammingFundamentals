@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\X\bin\Debug\X.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\X\bin\Debug\X.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\X\bin\Debug\X.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\X\obj\Debug\X.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\X\obj\Debug\X.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\X\obj\Debug\X.pdb

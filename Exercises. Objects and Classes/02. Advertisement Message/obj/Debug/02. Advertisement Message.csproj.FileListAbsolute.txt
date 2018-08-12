@@ -1,0 +1,5 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb

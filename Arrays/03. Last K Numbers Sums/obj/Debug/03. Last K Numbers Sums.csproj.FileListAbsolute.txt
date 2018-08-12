@@ -1,0 +1,5 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.pdb

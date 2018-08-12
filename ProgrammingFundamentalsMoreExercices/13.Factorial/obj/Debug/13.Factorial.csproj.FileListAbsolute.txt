@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\13.Factorial\bin\Debug\13.Factorial.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\13.Factorial\bin\Debug\13.Factorial.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\13.Factorial\bin\Debug\13.Factorial.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\13.Factorial\obj\Debug\13.Factorial.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\13.Factorial\obj\Debug\13.Factorial.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\13.Factorial\obj\Debug\13.Factorial.pdb

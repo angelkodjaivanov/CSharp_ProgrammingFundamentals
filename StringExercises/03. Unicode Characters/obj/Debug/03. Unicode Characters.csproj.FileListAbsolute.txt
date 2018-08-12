@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb

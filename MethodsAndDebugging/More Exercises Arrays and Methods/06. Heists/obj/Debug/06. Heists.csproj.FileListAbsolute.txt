@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\06. Heists\bin\Debug\_06.Heists.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\06. Heists\bin\Debug\_06.Heists.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\06. Heists\bin\Debug\_06.Heists.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\06. Heists\obj\Debug\06. Heists.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\06. Heists\obj\Debug\_06.Heists.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\06. Heists\obj\Debug\_06.Heists.pdb

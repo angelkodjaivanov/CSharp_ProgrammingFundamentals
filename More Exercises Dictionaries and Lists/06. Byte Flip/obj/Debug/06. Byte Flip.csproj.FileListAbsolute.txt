@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\06. Byte Flip\bin\Debug\_06.Byte_Flip.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\06. Byte Flip\bin\Debug\_06.Byte_Flip.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\06. Byte Flip\bin\Debug\_06.Byte_Flip.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\06. Byte Flip\obj\Debug\_06.Byte_Flip.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\06. Byte Flip\obj\Debug\_06.Byte_Flip.pdb

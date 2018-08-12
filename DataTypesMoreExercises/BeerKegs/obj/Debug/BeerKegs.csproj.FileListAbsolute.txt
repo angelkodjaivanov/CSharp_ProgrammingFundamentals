@@ -1,0 +1,5 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BeerKegs\bin\Debug\BeerKegs.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BeerKegs\bin\Debug\BeerKegs.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BeerKegs\bin\Debug\BeerKegs.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BeerKegs\obj\Debug\BeerKegs.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BeerKegs\obj\Debug\BeerKegs.pdb

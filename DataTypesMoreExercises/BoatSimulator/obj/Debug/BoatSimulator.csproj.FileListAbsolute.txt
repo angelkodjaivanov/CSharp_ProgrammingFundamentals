@@ -1,0 +1,6 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BoatSimulator\bin\Debug\BoatSimulator.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BoatSimulator\bin\Debug\BoatSimulator.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BoatSimulator\bin\Debug\BoatSimulator.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BoatSimulator\obj\Debug\BoatSimulator.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BoatSimulator\obj\Debug\BoatSimulator.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\BoatSimulator\obj\Debug\BoatSimulator.pdb

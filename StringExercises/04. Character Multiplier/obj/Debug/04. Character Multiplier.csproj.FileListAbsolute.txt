@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\04. Character Multiplier\obj\Debug\04. Character Multiplier.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.pdb

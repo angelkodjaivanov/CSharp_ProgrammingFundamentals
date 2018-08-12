@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\Substring\bin\Debug\Substring.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\Substring\bin\Debug\Substring.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\Substring\bin\Debug\Substring.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\Substring\obj\Debug\Substring.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\Substring\obj\Debug\Substring.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache

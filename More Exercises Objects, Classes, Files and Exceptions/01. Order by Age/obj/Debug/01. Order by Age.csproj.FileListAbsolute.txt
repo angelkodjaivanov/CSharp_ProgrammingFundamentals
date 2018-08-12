@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\01. Order by Age\bin\Debug\_01.Order_by_Age.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\01. Order by Age\bin\Debug\_01.Order_by_Age.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\01. Order by Age\bin\Debug\_01.Order_by_Age.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\01. Order by Age\obj\Debug\01. Order by Age.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\01. Order by Age\obj\Debug\_01.Order_by_Age.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\01. Order by Age\obj\Debug\_01.Order_by_Age.pdb

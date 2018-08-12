@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\05. Closest Two Points\obj\Debug\05. Closest Two Points.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.pdb

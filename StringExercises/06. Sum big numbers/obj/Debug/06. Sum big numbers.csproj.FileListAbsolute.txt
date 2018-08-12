@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\04.NumbersInReversedOrder\obj\Debug\04.NumbersInReversedOrder.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\04.NumbersInReversedOrder\obj\Debug\04.NumbersInReversedOrder.pdb

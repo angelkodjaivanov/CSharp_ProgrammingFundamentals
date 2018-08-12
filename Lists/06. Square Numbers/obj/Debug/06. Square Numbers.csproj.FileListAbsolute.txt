@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\06. Square Numbers\bin\Debug\_06.Square_Numbers.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\06. Square Numbers\obj\Debug\_06.Square_Numbers.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lists\06. Square Numbers\obj\Debug\_06.Square_Numbers.pdb

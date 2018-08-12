@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\04. Morse Code Upgraded\bin\Debug\_04.Morse_Code_Upgraded.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\04. Morse Code Upgraded\bin\Debug\_04.Morse_Code_Upgraded.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\04. Morse Code Upgraded\bin\Debug\_04.Morse_Code_Upgraded.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\04. Morse Code Upgraded\obj\Debug\_04.Morse_Code_Upgraded.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\04. Morse Code Upgraded\obj\Debug\_04.Morse_Code_Upgraded.pdb

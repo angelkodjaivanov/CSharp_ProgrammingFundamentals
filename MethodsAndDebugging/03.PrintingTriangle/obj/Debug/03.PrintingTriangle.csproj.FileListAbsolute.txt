@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.pdb

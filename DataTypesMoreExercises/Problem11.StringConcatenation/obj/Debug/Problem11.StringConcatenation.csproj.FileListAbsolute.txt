@@ -1,0 +1,6 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\Problem11.StringConcatenation\bin\Debug\Problem11.StringConcatenation.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\Problem11.StringConcatenation\bin\Debug\Problem11.StringConcatenation.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\Problem11.StringConcatenation\bin\Debug\Problem11.StringConcatenation.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\Problem11.StringConcatenation\obj\Debug\Problem11.StringConcatenation.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\Problem11.StringConcatenation\obj\Debug\Problem11.StringConcatenation.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\Problem11.StringConcatenation\obj\Debug\Problem11.StringConcatenation.pdb

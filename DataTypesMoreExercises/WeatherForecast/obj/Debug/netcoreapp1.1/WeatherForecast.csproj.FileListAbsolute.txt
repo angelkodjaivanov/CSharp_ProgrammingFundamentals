@@ -1,0 +1,9 @@
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\WeatherForecast\bin\Debug\netcoreapp1.1\WeatherForecast.deps.json
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\WeatherForecast\bin\Debug\netcoreapp1.1\WeatherForecast.runtimeconfig.json
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\WeatherForecast\bin\Debug\netcoreapp1.1\WeatherForecast.runtimeconfig.dev.json
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\WeatherForecast\bin\Debug\netcoreapp1.1\WeatherForecast.dll
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\WeatherForecast\bin\Debug\netcoreapp1.1\WeatherForecast.pdb
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\WeatherForecast\obj\Debug\netcoreapp1.1\WeatherForecast.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\WeatherForecast\obj\Debug\netcoreapp1.1\WeatherForecast.AssemblyInfo.cs
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\WeatherForecast\obj\Debug\netcoreapp1.1\WeatherForecast.dll
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\WeatherForecast\obj\Debug\netcoreapp1.1\WeatherForecast.pdb

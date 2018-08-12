@@ -1,0 +1,5 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\13.DecryptingMessage\bin\Debug\13.DecryptingMessage.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\13.DecryptingMessage\bin\Debug\13.DecryptingMessage.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\13.DecryptingMessage\bin\Debug\13.DecryptingMessage.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\13.DecryptingMessage\obj\Debug\13.DecryptingMessage.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\13.DecryptingMessage\obj\Debug\13.DecryptingMessage.pdb

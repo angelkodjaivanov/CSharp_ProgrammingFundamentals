@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\TrainingHallProject\bin\Debug\TrainingHallProject.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\TrainingHallProject\bin\Debug\TrainingHallProject.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\TrainingHallProject\bin\Debug\TrainingHallProject.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\TrainingHallProject\obj\Debug\TrainingHallProject.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\TrainingHallProject\obj\Debug\TrainingHallProject.pdb

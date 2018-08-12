@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\11.GeometryCalculator\obj\Debug\11.GeometryCalculator.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\11.GeometryCalculator\obj\Debug\11.GeometryCalculator.pdb

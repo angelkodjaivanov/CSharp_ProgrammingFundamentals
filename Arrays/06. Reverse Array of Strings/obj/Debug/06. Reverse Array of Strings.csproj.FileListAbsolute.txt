@@ -1,0 +1,5 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\06. Reverse Array of Strings\bin\Debug\_06.Reverse_Array_of_Strings.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\06. Reverse Array of Strings\bin\Debug\_06.Reverse_Array_of_Strings.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\06. Reverse Array of Strings\bin\Debug\_06.Reverse_Array_of_Strings.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\06. Reverse Array of Strings\obj\Debug\_06.Reverse_Array_of_Strings.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\06. Reverse Array of Strings\obj\Debug\_06.Reverse_Array_of_Strings.pdb

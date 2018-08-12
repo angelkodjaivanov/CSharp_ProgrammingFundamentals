@@ -1,0 +1,8 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeFloatingPoint\bin\Debug\netcoreapp1.1\PracticeFloatingPoint.deps.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeFloatingPoint\bin\Debug\netcoreapp1.1\PracticeFloatingPoint.runtimeconfig.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeFloatingPoint\bin\Debug\netcoreapp1.1\PracticeFloatingPoint.runtimeconfig.dev.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeFloatingPoint\bin\Debug\netcoreapp1.1\PracticeFloatingPoint.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeFloatingPoint\bin\Debug\netcoreapp1.1\PracticeFloatingPoint.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeFloatingPoint\obj\Debug\netcoreapp1.1\PracticeFloatingPoint.AssemblyInfo.cs
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeFloatingPoint\obj\Debug\netcoreapp1.1\PracticeFloatingPoint.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeFloatingPoint\obj\Debug\netcoreapp1.1\PracticeFloatingPoint.pdb

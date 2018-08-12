@@ -1,0 +1,8 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\NumberChecker\bin\Debug\netcoreapp1.1\NumberChecker.deps.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\NumberChecker\bin\Debug\netcoreapp1.1\NumberChecker.runtimeconfig.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\NumberChecker\bin\Debug\netcoreapp1.1\NumberChecker.runtimeconfig.dev.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\NumberChecker\obj\Debug\netcoreapp1.1\NumberChecker.AssemblyInfo.cs
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\NumberChecker\bin\Debug\netcoreapp1.1\NumberChecker.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\NumberChecker\bin\Debug\netcoreapp1.1\NumberChecker.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\NumberChecker\obj\Debug\netcoreapp1.1\NumberChecker.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\NumberChecker\obj\Debug\netcoreapp1.1\NumberChecker.pdb

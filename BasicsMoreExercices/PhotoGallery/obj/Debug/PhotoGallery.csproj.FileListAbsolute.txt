@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\PhotoGallery\obj\Debug\PhotoGallery.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\PhotoGallery\obj\Debug\PhotoGallery.pdb

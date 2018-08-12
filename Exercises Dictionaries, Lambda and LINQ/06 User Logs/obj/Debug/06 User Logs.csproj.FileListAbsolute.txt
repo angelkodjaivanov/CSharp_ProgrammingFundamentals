@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises Dictionaries, Lambda and LINQ\06 User Logs\bin\Debug\06 User Logs.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises Dictionaries, Lambda and LINQ\06 User Logs\bin\Debug\06 User Logs.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises Dictionaries, Lambda and LINQ\06 User Logs\bin\Debug\06 User Logs.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises Dictionaries, Lambda and LINQ\06 User Logs\obj\Debug\06 User Logs.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises Dictionaries, Lambda and LINQ\06 User Logs\obj\Debug\06 User Logs.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises Dictionaries, Lambda and LINQ\06 User Logs\obj\Debug\06 User Logs.pdb

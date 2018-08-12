@@ -1,0 +1,5 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\02. Reverse Array of Integers\obj\Debug\_02.Reverse_Array_of_Integers.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\02. Reverse Array of Integers\obj\Debug\_02.Reverse_Array_of_Integers.pdb

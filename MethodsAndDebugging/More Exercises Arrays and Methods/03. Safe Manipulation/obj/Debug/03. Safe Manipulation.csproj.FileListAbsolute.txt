@@ -1,0 +1,5 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe.config
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.pdb

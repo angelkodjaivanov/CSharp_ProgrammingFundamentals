@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\BPM_Counter\bin\Debug\BPM_Counter.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\BPM_Counter\bin\Debug\BPM_Counter.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\BPM_Counter\bin\Debug\BPM_Counter.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\BPM_Counter\obj\Debug\BPM_Counter.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\BPM_Counter\obj\Debug\BPM_Counter.pdb

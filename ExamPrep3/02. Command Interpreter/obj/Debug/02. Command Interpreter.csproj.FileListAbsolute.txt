@@ -1,0 +1,5 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\ExamPrep3\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe.config
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\ExamPrep3\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\ExamPrep3\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\ExamPrep3\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\ExamPrep3\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.pdb

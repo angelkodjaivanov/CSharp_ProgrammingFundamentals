@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\07. Multiply big number\bin\Debug\_07.Multiply_big_number.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\07. Multiply big number\bin\Debug\_07.Multiply_big_number.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\07. Multiply big number\bin\Debug\_07.Multiply_big_number.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\07. Multiply big number\obj\Debug\07. Multiply big number.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\07. Multiply big number\obj\Debug\_07.Multiply_big_number.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\07. Multiply big number\obj\Debug\_07.Multiply_big_number.pdb

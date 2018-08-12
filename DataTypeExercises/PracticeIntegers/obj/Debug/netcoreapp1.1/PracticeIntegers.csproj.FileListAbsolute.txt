@@ -1,0 +1,9 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeIntegers\bin\Debug\netcoreapp1.1\PracticeIntegers.deps.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeIntegers\bin\Debug\netcoreapp1.1\PracticeIntegers.runtimeconfig.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeIntegers\bin\Debug\netcoreapp1.1\PracticeIntegers.runtimeconfig.dev.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeIntegers\bin\Debug\netcoreapp1.1\PracticeIntegers.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeIntegers\bin\Debug\netcoreapp1.1\PracticeIntegers.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeIntegers\obj\Debug\netcoreapp1.1\PracticeIntegers.csprojResolveAssemblyReference.cache
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeIntegers\obj\Debug\netcoreapp1.1\PracticeIntegers.AssemblyInfo.cs
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeIntegers\obj\Debug\netcoreapp1.1\PracticeIntegers.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\PracticeIntegers\obj\Debug\netcoreapp1.1\PracticeIntegers.pdb

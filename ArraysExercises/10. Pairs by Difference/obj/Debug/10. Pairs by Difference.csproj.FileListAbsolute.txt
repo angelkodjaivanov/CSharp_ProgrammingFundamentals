@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ArraysExercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ArraysExercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ArraysExercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ArraysExercises\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ArraysExercises\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb

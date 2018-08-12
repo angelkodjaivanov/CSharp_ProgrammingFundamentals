@@ -1,0 +1,9 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\Problem1.TypeBoundaries\bin\Debug\netcoreapp1.1\Problem1.TypeBoundaries.deps.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\Problem1.TypeBoundaries\bin\Debug\netcoreapp1.1\Problem1.TypeBoundaries.runtimeconfig.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\Problem1.TypeBoundaries\bin\Debug\netcoreapp1.1\Problem1.TypeBoundaries.runtimeconfig.dev.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\Problem1.TypeBoundaries\bin\Debug\netcoreapp1.1\Problem1.TypeBoundaries.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\Problem1.TypeBoundaries\bin\Debug\netcoreapp1.1\Problem1.TypeBoundaries.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\Problem1.TypeBoundaries\obj\Debug\netcoreapp1.1\Problem1.TypeBoundaries.csprojResolveAssemblyReference.cache
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\Problem1.TypeBoundaries\obj\Debug\netcoreapp1.1\Problem1.TypeBoundaries.AssemblyInfo.cs
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\Problem1.TypeBoundaries\obj\Debug\netcoreapp1.1\Problem1.TypeBoundaries.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\Problem1.TypeBoundaries\obj\Debug\netcoreapp1.1\Problem1.TypeBoundaries.pdb

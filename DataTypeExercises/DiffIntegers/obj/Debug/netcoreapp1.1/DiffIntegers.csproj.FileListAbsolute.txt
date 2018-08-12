@@ -1,0 +1,9 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\DiffIntegers\bin\Debug\netcoreapp1.1\DiffIntegers.deps.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\DiffIntegers\bin\Debug\netcoreapp1.1\DiffIntegers.runtimeconfig.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\DiffIntegers\bin\Debug\netcoreapp1.1\DiffIntegers.runtimeconfig.dev.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\DiffIntegers\bin\Debug\netcoreapp1.1\DiffIntegers.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\DiffIntegers\bin\Debug\netcoreapp1.1\DiffIntegers.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\DiffIntegers\obj\Debug\netcoreapp1.1\DiffIntegers.csprojResolveAssemblyReference.cache
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\DiffIntegers\obj\Debug\netcoreapp1.1\DiffIntegers.AssemblyInfo.cs
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\DiffIntegers\obj\Debug\netcoreapp1.1\DiffIntegers.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\DiffIntegers\obj\Debug\netcoreapp1.1\DiffIntegers.pdb

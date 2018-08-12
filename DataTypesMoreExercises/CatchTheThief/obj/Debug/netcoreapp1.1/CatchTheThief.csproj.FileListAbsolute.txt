@@ -1,0 +1,9 @@
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\CatchTheThief\bin\Debug\netcoreapp1.1\CatchTheThief.deps.json
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\CatchTheThief\bin\Debug\netcoreapp1.1\CatchTheThief.runtimeconfig.json
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\CatchTheThief\bin\Debug\netcoreapp1.1\CatchTheThief.runtimeconfig.dev.json
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\CatchTheThief\bin\Debug\netcoreapp1.1\CatchTheThief.dll
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\CatchTheThief\bin\Debug\netcoreapp1.1\CatchTheThief.pdb
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\CatchTheThief\obj\Debug\netcoreapp1.1\CatchTheThief.AssemblyInfo.cs
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\CatchTheThief\obj\Debug\netcoreapp1.1\CatchTheThief.dll
+C:\Users\AgiKo\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\CatchTheThief\obj\Debug\netcoreapp1.1\CatchTheThief.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\CatchTheThief\obj\Debug\netcoreapp1.1\CatchTheThief.csprojResolveAssemblyReference.cache

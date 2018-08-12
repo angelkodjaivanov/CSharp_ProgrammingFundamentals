@@ -1,0 +1,9 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\1.BlankReceipt\bin\Debug\1.BlankReceipt.exe.config
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\1.BlankReceipt\bin\Debug\1.BlankReceipt.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\1.BlankReceipt\bin\Debug\1.BlankReceipt.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\1.BlankReceipt\obj\Debug\1.BlankReceipt.csprojResolveAssemblyReference.cache
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\1.BlankReceipt\obj\Debug\1.BlankReceipt.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\1.BlankReceipt\obj\Debug\1.BlankReceipt.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\1.BlankReceipt\bin\Debug\1.BlankReceipt.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\1.BlankReceipt\obj\Debug\1.BlankReceipt.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\1.BlankReceipt\obj\Debug\1.BlankReceipt.pdb

@@ -1,0 +1,6 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe.config
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\03. A Miner Task\bin\Debug\_03.A_Miner_Task.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\03. A Miner Task\obj\Debug\_03.A_Miner_Task.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\03. A Miner Task\obj\Debug\_03.A_Miner_Task.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\03. A Miner Task\obj\Debug\03. A Miner Task.csprojResolveAssemblyReference.cache

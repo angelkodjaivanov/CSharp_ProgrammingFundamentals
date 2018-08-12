@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.pdb

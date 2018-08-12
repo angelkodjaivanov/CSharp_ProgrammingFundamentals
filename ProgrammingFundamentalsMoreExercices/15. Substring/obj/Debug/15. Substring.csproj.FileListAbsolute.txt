@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\15. Substring\bin\Debug\_15.Substring.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\15. Substring\bin\Debug\_15.Substring.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\15. Substring\bin\Debug\_15.Substring.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\15. Substring\obj\Debug\_15.Substring.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ProgrammingFundamentalsMoreExercices\15. Substring\obj\Debug\_15.Substring.pdb

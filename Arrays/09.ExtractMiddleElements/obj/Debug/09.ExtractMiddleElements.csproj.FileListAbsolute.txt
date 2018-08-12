@@ -1,0 +1,6 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\09.ExtractMiddleElements\bin\Debug\09.ExtractMiddleElements.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\09.ExtractMiddleElements\bin\Debug\09.ExtractMiddleElements.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\09.ExtractMiddleElements\bin\Debug\09.ExtractMiddleElements.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\09.ExtractMiddleElements\obj\Debug\09.ExtractMiddleElements.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\09.ExtractMiddleElements\obj\Debug\09.ExtractMiddleElements.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\09.ExtractMiddleElements\obj\Debug\09.ExtractMiddleElements.pdb

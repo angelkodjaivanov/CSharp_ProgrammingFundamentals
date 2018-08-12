@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ArraysExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ArraysExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ArraysExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ArraysExercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ArraysExercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.pdb

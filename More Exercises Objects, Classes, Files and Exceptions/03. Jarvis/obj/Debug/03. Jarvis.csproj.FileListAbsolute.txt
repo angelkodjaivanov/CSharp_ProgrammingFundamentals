@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\03. Jarvis\bin\Debug\_03.Jarvis.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\03. Jarvis\bin\Debug\_03.Jarvis.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\03. Jarvis\bin\Debug\_03.Jarvis.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\03. Jarvis\obj\Debug\03. Jarvis.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\03. Jarvis\obj\Debug\_03.Jarvis.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\03. Jarvis\obj\Debug\_03.Jarvis.pdb

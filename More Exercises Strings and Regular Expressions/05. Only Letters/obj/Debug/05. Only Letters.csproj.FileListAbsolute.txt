@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\05. Only Letters\bin\Debug\_05.Only_Letters.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\05. Only Letters\bin\Debug\_05.Only_Letters.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\05. Only Letters\bin\Debug\_05.Only_Letters.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\05. Only Letters\obj\Debug\_05.Only_Letters.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\05. Only Letters\obj\Debug\_05.Only_Letters.pdb

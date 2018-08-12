@@ -1,0 +1,9 @@
+C:\Users\AgiKo\Desktop\Programing\C#\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\netcoreapp1.1\RefactorVolumeOfPyramid.deps.json
+C:\Users\AgiKo\Desktop\Programing\C#\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\netcoreapp1.1\RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\AgiKo\Desktop\Programing\C#\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\netcoreapp1.1\RefactorVolumeOfPyramid.runtimeconfig.dev.json
+C:\Users\AgiKo\Desktop\Programing\C#\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\netcoreapp1.1\RefactorVolumeOfPyramid.dll
+C:\Users\AgiKo\Desktop\Programing\C#\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\netcoreapp1.1\RefactorVolumeOfPyramid.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\netcoreapp1.1\RefactorVolumeOfPyramid.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\netcoreapp1.1\RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\AgiKo\Desktop\Programing\C#\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\netcoreapp1.1\RefactorVolumeOfPyramid.dll
+C:\Users\AgiKo\Desktop\Programing\C#\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\netcoreapp1.1\RefactorVolumeOfPyramid.pdb

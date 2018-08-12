@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\CondStateAndLoops\MagicLetter\bin\Debug\MagicLetter.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\CondStateAndLoops\MagicLetter\bin\Debug\MagicLetter.exe
+C:\Users\AgiKo\Desktop\Programing\C#\CondStateAndLoops\MagicLetter\bin\Debug\MagicLetter.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\CondStateAndLoops\MagicLetter\obj\Debug\MagicLetter.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\CondStateAndLoops\MagicLetter\obj\Debug\MagicLetter.exe
+C:\Users\AgiKo\Desktop\Programing\C#\CondStateAndLoops\MagicLetter\obj\Debug\MagicLetter.pdb

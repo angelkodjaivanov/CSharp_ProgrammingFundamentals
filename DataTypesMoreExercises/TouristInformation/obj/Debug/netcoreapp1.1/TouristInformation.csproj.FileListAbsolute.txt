@@ -1,0 +1,8 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\TouristInformation\bin\Debug\netcoreapp1.1\TouristInformation.deps.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\TouristInformation\bin\Debug\netcoreapp1.1\TouristInformation.runtimeconfig.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\TouristInformation\bin\Debug\netcoreapp1.1\TouristInformation.runtimeconfig.dev.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\TouristInformation\bin\Debug\netcoreapp1.1\TouristInformation.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\TouristInformation\bin\Debug\netcoreapp1.1\TouristInformation.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\TouristInformation\obj\Debug\netcoreapp1.1\TouristInformation.AssemblyInfo.cs
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\TouristInformation\obj\Debug\netcoreapp1.1\TouristInformation.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypesMoreExercises\TouristInformation\obj\Debug\netcoreapp1.1\TouristInformation.pdb

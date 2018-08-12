@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\TextFilter\bin\Debug\TextFilter.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\TextFilter\bin\Debug\TextFilter.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\TextFilter\bin\Debug\TextFilter.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\TextFilter\obj\Debug\TextFilter.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Strings\TextFilter\obj\Debug\TextFilter.pdb

@@ -1,0 +1,6 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\04. Average Grades\bin\Debug\_04.Average_Grades.exe.config
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\04. Average Grades\bin\Debug\_04.Average_Grades.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\04. Average Grades\bin\Debug\_04.Average_Grades.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\04. Average Grades\obj\Debug\04. Average Grades.csprojResolveAssemblyReference.cache
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\04. Average Grades\obj\Debug\_04.Average_Grades.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises. Objects and Classes\04. Average Grades\obj\Debug\_04.Average_Grades.pdb

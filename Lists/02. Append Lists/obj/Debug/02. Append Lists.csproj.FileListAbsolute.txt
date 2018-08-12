@@ -1,0 +1,6 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Lists\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Lists\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Lists\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Lists\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Lists\02. Append Lists\obj\Debug\_02.Append_Lists.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Lists\02. Append Lists\obj\Debug\02. Append Lists.csprojResolveAssemblyReference.cache

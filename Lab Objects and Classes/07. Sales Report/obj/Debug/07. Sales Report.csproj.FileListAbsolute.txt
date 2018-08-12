@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\07. Sales Report\obj\Debug\07. Sales Report.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\07. Sales Report\bin\Debug\_07.Sales_Report.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\07. Sales Report\bin\Debug\_07.Sales_Report.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\07. Sales Report\bin\Debug\_07.Sales_Report.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\07. Sales Report\obj\Debug\_07.Sales_Report.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Lab Objects and Classes\07. Sales Report\obj\Debug\_07.Sales_Report.pdb

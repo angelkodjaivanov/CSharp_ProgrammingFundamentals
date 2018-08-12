@@ -1,0 +1,5 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\MakeAWord\bin\Debug\MakeAWord.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\MakeAWord\bin\Debug\MakeAWord.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\MakeAWord\bin\Debug\MakeAWord.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\MakeAWord\obj\Debug\MakeAWord.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\MakeAWord\obj\Debug\MakeAWord.pdb

@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\FootbalLeagueForDebugging\bin\Debug\FootbalLeagueForDebugging.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\FootbalLeagueForDebugging\bin\Debug\FootbalLeagueForDebugging.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\FootbalLeagueForDebugging\bin\Debug\FootbalLeagueForDebugging.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\FootbalLeagueForDebugging\obj\Debug\FootbalLeagueForDebugging.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\FootbalLeagueForDebugging\obj\Debug\FootbalLeagueForDebugging.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\FootbalLeagueForDebugging\obj\Debug\FootbalLeagueForDebugging.pdb

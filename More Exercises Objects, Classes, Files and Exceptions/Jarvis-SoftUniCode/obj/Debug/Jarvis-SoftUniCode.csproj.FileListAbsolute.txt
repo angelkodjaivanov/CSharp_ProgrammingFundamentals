@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Jarvis-SoftUniCode\obj\Debug\Jarvis-SoftUniCode.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Jarvis-SoftUniCode\bin\Debug\Jarvis-SoftUniCode.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Jarvis-SoftUniCode\bin\Debug\Jarvis-SoftUniCode.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Jarvis-SoftUniCode\bin\Debug\Jarvis-SoftUniCode.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Jarvis-SoftUniCode\obj\Debug\Jarvis-SoftUniCode.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Jarvis-SoftUniCode\obj\Debug\Jarvis-SoftUniCode.pdb

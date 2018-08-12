@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\StringExercises\05. Magic exchangeable words\obj\Debug\05. Magic exchangeable words.csprojResolveAssemblyReference.cache

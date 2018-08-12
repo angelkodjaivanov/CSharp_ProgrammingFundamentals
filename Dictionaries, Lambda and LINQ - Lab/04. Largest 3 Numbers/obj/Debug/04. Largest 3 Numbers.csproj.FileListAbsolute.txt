@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.pdb

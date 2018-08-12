@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Test\bin\Debug\Test.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Test\bin\Debug\Test.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Test\bin\Debug\Test.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Test\obj\Debug\Test.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Objects, Classes, Files and Exceptions\Test\obj\Debug\Test.pdb

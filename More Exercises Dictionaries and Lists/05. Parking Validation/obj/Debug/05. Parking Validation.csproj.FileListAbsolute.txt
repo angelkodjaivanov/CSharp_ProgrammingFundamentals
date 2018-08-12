@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\05. Parking Validation\bin\Debug\_05.Parking_Validation.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\05. Parking Validation\bin\Debug\_05.Parking_Validation.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\05. Parking Validation\bin\Debug\_05.Parking_Validation.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\05. Parking Validation\obj\Debug\05. Parking Validation.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\05. Parking Validation\obj\Debug\_05.Parking_Validation.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\05. Parking Validation\obj\Debug\_05.Parking_Validation.pdb

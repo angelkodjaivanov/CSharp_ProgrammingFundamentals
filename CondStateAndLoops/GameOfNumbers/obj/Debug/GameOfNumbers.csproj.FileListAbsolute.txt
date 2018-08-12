@@ -1,0 +1,2 @@
+C:\Users\AgiKo\Desktop\Папки\C#\condStateAndLoops\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\CondStateAndLoops\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config

@@ -1,0 +1,6 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb

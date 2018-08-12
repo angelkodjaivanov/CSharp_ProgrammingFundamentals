@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\04 – Cubic’s Messages\bin\Debug\04 – Cubic’s Messages.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\04 – Cubic’s Messages\bin\Debug\04 – Cubic’s Messages.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\04 – Cubic’s Messages\bin\Debug\04 – Cubic’s Messages.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\04 – Cubic’s Messages\obj\Debug\04 – Cubic’s Messages.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\04 – Cubic’s Messages\obj\Debug\04 – Cubic’s Messages.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPreparation4\04 – Cubic’s Messages\obj\Debug\04 – Cubic’s Messages.pdb

@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\DNASequences\bin\Debug\DNASequences.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\DNASequences\bin\Debug\DNASequences.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\DNASequences\bin\Debug\DNASequences.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\DNASequences\obj\Debug\DNASequences.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\DNASequences\obj\Debug\DNASequences.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\DNASequences\obj\Debug\DNASequences.pdb

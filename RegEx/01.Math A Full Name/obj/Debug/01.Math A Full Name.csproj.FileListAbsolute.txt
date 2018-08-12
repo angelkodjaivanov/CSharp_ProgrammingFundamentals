@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\RegEx\01.Math A Full Name\bin\Debug\01.Math A Full Name.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\RegEx\01.Math A Full Name\bin\Debug\01.Math A Full Name.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\RegEx\01.Math A Full Name\bin\Debug\01.Math A Full Name.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\RegEx\01.Math A Full Name\obj\Debug\01.Math A Full Name.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\RegEx\01.Math A Full Name\obj\Debug\01.Math A Full Name.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\RegEx\01.Math A Full Name\obj\Debug\01.Math A Full Name.pdb

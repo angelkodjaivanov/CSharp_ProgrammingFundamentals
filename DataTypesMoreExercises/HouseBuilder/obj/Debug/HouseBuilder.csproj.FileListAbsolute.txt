@@ -1,0 +1,6 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\HouseBuilder\bin\Debug\HouseBuilder.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\HouseBuilder\bin\Debug\HouseBuilder.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\HouseBuilder\bin\Debug\HouseBuilder.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\HouseBuilder\obj\Debug\HouseBuilder.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\HouseBuilder\obj\Debug\HouseBuilder.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\HouseBuilder\obj\Debug\HouseBuilder.pdb

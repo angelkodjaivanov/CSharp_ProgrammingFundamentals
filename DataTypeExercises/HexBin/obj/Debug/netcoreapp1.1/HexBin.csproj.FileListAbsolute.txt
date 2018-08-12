@@ -1,0 +1,9 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\HexBin\bin\Debug\netcoreapp1.1\HexBin.deps.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\HexBin\bin\Debug\netcoreapp1.1\HexBin.runtimeconfig.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\HexBin\bin\Debug\netcoreapp1.1\HexBin.runtimeconfig.dev.json
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\HexBin\bin\Debug\netcoreapp1.1\HexBin.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\HexBin\bin\Debug\netcoreapp1.1\HexBin.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\HexBin\obj\Debug\netcoreapp1.1\HexBin.csprojResolveAssemblyReference.cache
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\HexBin\obj\Debug\netcoreapp1.1\HexBin.AssemblyInfo.cs
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\HexBin\obj\Debug\netcoreapp1.1\HexBin.dll
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\DataTypeExercises\HexBin\obj\Debug\netcoreapp1.1\HexBin.pdb

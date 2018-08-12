@@ -1,0 +1,5 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.exe.config
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\02.SignOfIntegerNumber\obj\Debug\02.SignOfIntegerNumber.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\MethodsAndDebugging\02.SignOfIntegerNumber\obj\Debug\02.SignOfIntegerNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\03. Immune System\bin\Debug\_03.Immune_System.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\03. Immune System\bin\Debug\_03.Immune_System.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\03. Immune System\bin\Debug\_03.Immune_System.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\03. Immune System\obj\Debug\03. Immune System.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\03. Immune System\obj\Debug\_03.Immune_System.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\03. Immune System\obj\Debug\_03.Immune_System.pdb

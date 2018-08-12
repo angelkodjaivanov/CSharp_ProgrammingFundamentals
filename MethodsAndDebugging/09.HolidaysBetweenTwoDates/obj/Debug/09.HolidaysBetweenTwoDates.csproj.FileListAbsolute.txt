@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\09.HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\09.HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.pdb

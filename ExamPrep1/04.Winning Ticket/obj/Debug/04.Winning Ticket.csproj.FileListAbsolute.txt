@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPrep1\04.Winning Ticket\bin\Debug\04.Winning Ticket.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPrep1\04.Winning Ticket\bin\Debug\04.Winning Ticket.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPrep1\04.Winning Ticket\bin\Debug\04.Winning Ticket.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPrep1\04.Winning Ticket\obj\Debug\04.Winning Ticket.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPrep1\04.Winning Ticket\obj\Debug\04.Winning Ticket.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\ExamPrep1\04.Winning Ticket\obj\Debug\04.Winning Ticket.pdb

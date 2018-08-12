@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\05. Pizza Ingredients\obj\Debug\05. Pizza Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\MethodsAndDebugging\More Exercises Arrays and Methods\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.pdb

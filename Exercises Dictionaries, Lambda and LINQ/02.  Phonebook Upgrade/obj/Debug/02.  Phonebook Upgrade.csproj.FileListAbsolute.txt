@@ -1,0 +1,5 @@
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\02.  Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe.config
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\02.  Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\02.  Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.pdb
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\02.  Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.exe
+c:\users\agiko\onedrive\documents\visual studio 2017\Projects\Exercises Dictionaries, Lambda and LINQ\02.  Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.pdb

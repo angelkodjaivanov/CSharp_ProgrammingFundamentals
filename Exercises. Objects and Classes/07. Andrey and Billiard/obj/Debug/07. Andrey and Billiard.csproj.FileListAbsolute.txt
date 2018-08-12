@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\07. Andrey and Billiard\obj\Debug\07. Andrey and Billiard.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\07. Andrey and Billiard\obj\Debug\_07.Andrey_and_Billiard.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\07. Andrey and Billiard\obj\Debug\_07.Andrey_and_Billiard.pdb

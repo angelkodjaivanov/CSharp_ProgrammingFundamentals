@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\VaportStore\bin\Debug\VaportStore.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\VaportStore\bin\Debug\VaportStore.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\VaportStore\bin\Debug\VaportStore.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\VaportStore\obj\Debug\VaportStore.exe
+C:\Users\AgiKo\Desktop\Programing\C#\BasicsMoreExercices\VaportStore\obj\Debug\VaportStore.pdb

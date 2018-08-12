@@ -1,0 +1,5 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\15.BalancedBrackets\bin\Debug\15.BalancedBrackets.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\15.BalancedBrackets\bin\Debug\15.BalancedBrackets.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\15.BalancedBrackets\bin\Debug\15.BalancedBrackets.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\15.BalancedBrackets\obj\Debug\15.BalancedBrackets.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\DataTypesMoreExercises\15.BalancedBrackets\obj\Debug\15.BalancedBrackets.pdb

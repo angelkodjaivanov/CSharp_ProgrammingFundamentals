@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\06. Email Statistics\bin\Debug\_06.Email_Statistics.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\06. Email Statistics\bin\Debug\_06.Email_Statistics.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\06. Email Statistics\bin\Debug\_06.Email_Statistics.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\06. Email Statistics\obj\Debug\_06.Email_Statistics.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Strings and Regular Expressions\06. Email Statistics\obj\Debug\_06.Email_Statistics.pdb

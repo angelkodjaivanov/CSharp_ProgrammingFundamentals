@@ -1,0 +1,5 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\Exercises. Objects and Classes\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.pdb

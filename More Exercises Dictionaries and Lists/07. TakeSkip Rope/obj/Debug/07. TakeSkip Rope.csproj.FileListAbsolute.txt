@@ -1,0 +1,6 @@
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\07. TakeSkip Rope\bin\Debug\_07.TakeSkip_Rope.exe.config
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\07. TakeSkip Rope\bin\Debug\_07.TakeSkip_Rope.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\07. TakeSkip Rope\bin\Debug\_07.TakeSkip_Rope.pdb
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\07. TakeSkip Rope\obj\Debug\07. TakeSkip Rope.csprojResolveAssemblyReference.cache
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\07. TakeSkip Rope\obj\Debug\_07.TakeSkip_Rope.exe
+C:\Users\AgiKo\Desktop\Programing\C#\Programming_Fundamentals\More Exercises Dictionaries and Lists\07. TakeSkip Rope\obj\Debug\_07.TakeSkip_Rope.pdb

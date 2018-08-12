@@ -1,0 +1,5 @@
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\5. Rounding Numbers Away from Zero\bin\Debug\_5.Rounding_Numbers_Away_from_Zero.exe.config
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\5. Rounding Numbers Away from Zero\bin\Debug\_5.Rounding_Numbers_Away_from_Zero.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\5. Rounding Numbers Away from Zero\bin\Debug\_5.Rounding_Numbers_Away_from_Zero.pdb
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\5. Rounding Numbers Away from Zero\obj\Debug\_5.Rounding_Numbers_Away_from_Zero.exe
+C:\Users\AgiKo\OneDrive\Documents\Visual Studio 2017\Projects\Arrays\5. Rounding Numbers Away from Zero\obj\Debug\_5.Rounding_Numbers_Away_from_Zero.pdb
